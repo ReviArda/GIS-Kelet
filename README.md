@@ -6,11 +6,23 @@
 
 ## 🌟 Fitur Utama
 
-### 🗺️ Modul Publik (Warga)
-*   **Peta Interaktif**: Visualisasi lokasi penting (Sekolah, Faskes, UMKM) dan batas wilayah desa.
-*   **Statistik Kependudukan**: Grafik data demografi yang mudah dipahami.
-*   **Layanan Mandiri**: Cek status permohonan surat dan informasi persyaratan layanan.
-*   **Pencarian**: Temukan lokasi atau status layanan dengan mudah.
+### 🌍 Modul Publik (Warga)
+
+#### 1. Beranda & Informasi Desa
+Halaman depan yang modern menampilkan akses cepat ke fitur utama dan informasi terkini desa.
+![Landing Page](docs/screenshots/landing-hero.png)
+
+#### 2. Peta Digital Interaktif
+Visualisasi lengkap lokasi fasilitas umum (sekolah, faskes, UMKM) dan batas wilayah Dusun/RW.
+![Peta Interaktif](docs/screenshots/map-interactive.png)
+
+#### 3. Statistik Kependudukan
+Transparansi data demografi desa yang disajikan dalam bentuk grafik dan diagram yang mudah dipahami.
+![Statistik Desa](docs/screenshots/statistics.png)
+
+#### 4. Layanan Mandiri
+Fitur pengajuan surat pengantar online yang praktis, lengkap dengan informasi persyaratan dan cek status.
+![Layanan Mandiri](docs/screenshots/services.png)
 
 ### 🔒 Modul Admin (Perangkat Desa)
 *   **Dashboard Eksekutif**: Ringkasan aktivitas dan data real-time.
