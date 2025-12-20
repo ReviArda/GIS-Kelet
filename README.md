@@ -25,10 +25,22 @@ Fitur pengajuan surat pengantar online yang praktis, lengkap dengan informasi pe
 ![Layanan Mandiri](docs/screenshots/services.png)
 
 ### 🔒 Modul Admin (Perangkat Desa)
-*   **Dashboard Eksekutif**: Ringkasan aktivitas dan data real-time.
-*   **Manajemen GIS**: Tambah/Edit lokasi dan upload batas wilayah (GeoJSON).
-*   **Manajemen Layanan**: Verifikasi permohonan warga dan cetak draft surat otomatis.
-*   **WhatsApp Follow-up**: Hubungi warga langsung dari dashboard.
+
+#### 1. Dashboard Eksekutif
+Pusat kontrol yang menampilkan ringkasan aktivitas, notifikasi real-time, dan status sistem secara keseluruhan.
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+
+#### 2. Manajemen Data GIS
+Kelola titik lokasi (Fasilitas Umum) dan batas wilayah (GeoJSON) dengan mudah melalui peta interaktif.
+![Admin GIS](docs/screenshots/admin-gis.png)
+
+#### 3. Manajemen Kependudukan
+Update data agregat penduduk per dusun/RT/RW yang otomatis terhubung ke grafik publik.
+![Admin Population](docs/screenshots/admin-population.png)
+
+#### 4. Manajemen Layanan Surat
+Verifikasi permohonan warga, cetak draft surat otomatis, dan fitur "WhatsApp Follow-up" sekali klik.
+![Admin Services](docs/screenshots/admin-services.png)
 
 ## 🛠️ Teknologi yang Digunakan
 *   **Frontend**: React.js (Vite), Tailwind CSS, Leaflet.js (Maps), Lucide React (Icons).
