@@ -2,8 +2,6 @@
 
 **GIS Desa Kelet** adalah aplikasi berbasis web yang dirancang untuk memetakan fasilitas umum, batas wilayah, dan data kependudukan Desa Kelet secara digital. Aplikasi ini bertujuan mendukung transparansi informasi dan "Pemerintahan Digital" yang modern.
 
-![Desa Kelet GIS](https://via.placeholder.com/800x400?text=Preview+Aplikasi+GIS)
-
 ## 🌟 Fitur Utama
 
 ### 🌍 Modul Publik (Warga)
